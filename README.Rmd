@@ -1,0 +1,8 @@
+---
+title: "README"
+author: "eba3eb"
+date: "Friday, March 20, 2015"
+output: html_document
+---
+
+The script file exists to clean and create a tidy dataset from the training and testing data. It first concatenates all training and testing data, as well as all input and output variables. It then provides more descriptive labels and further chops up the dataset to provide a good summary of the data.
